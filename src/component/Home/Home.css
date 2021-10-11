@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #ddd;
+  }
+  
+  li a.active {
+    color: white;
+    background-color: #04AA6D;
+  }
+  .logout{
+      margin-left: 77%;
+  }
+  .name{
+    font-size: 25px;
+    font-family: 'Arial';
+}
+.balence{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 60px;
+    background-color: white;
+    font-size: 25px;
+    font-family: 'Arial';
+    text-align: justify;
+}

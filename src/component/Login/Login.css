@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: auto;
+  text-align: center;
+  background-color: white;
+  width: 100px;
+  margin-left: 10%;
+  margin-top: 100px;
+
+}
+#exampleInputEmail1{
+  margin-left: 25%;
+  width: 50%;
+}
+.btn{
+  margin-top: 4%;
+}
+#exampleInputPassword{
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 5%;
+}
+.link{
+  box-sizing: border-box;
+  margin-top: 2%;
+}

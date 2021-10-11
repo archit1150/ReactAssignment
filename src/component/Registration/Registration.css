@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+  }
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 60px;
+    text-align: center;
+    background-color: white;
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: 100px;
+  
+  
+  }
+  .name{
+       font-size: 25px;
+       font-family: 'Arial';
+  }
+  #exampleInputEmail1{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 3%;
+  }
+  .btn{
+    margin-top: 4%;
+  }
+  #exampleInputPassword{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 3%;
+  }
+  .dropdowm{
+      margin-top: 3%;
+      width: 50%;
+      padding : .8%;
+  }
